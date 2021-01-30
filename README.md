@@ -1,2 +1,2 @@
-# gameSrestha
-plz read read.md to see tge logic for coin disappearing
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
